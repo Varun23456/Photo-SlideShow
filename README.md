@@ -2,7 +2,7 @@
 
 A web-based application that converts collections of images into beautiful video slideshows with customizable themes, music, and transitions. Built with Flask and designed for easy image-to-video conversion with professional results.
 
-## 🔍 Overview
+## Overview
 
 The Image to Video Slideshow Converter is a Flask-based web application that allows users to upload multiple images and convert them into professional-looking video slideshows. The application provides various themes, background music options, and customizable settings to create engaging video presentations.
 
@@ -12,38 +12,38 @@ The Image to Video Slideshow Converter is a Flask-based web application that all
 - **Web-Based**: No software installation required for end users
 - **Professional Output**: High-quality video generation with smooth transitions
 
-## ✨ Features
+## Features
 
-### 🖼️ Image Management
+### Image Management
 - **Multi-Image Upload**: Support for uploading multiple images simultaneously
 - **Format Support**: Compatible with JPEG, PNG, WEBP, and other common formats
 - **Preview Gallery**: View uploaded images before conversion
 - **Image Ordering**: Arrange images in desired sequence for slideshow
 
-### 🎨 Customization Options
+### Customization Options
 - **Transition Effects**: Smooth transitions between images
 - **Duration Control**: Customizable display time for each image
 - **Resolution Options**: Multiple output resolution settings
 
-### 🎵 Audio Features
+### Audio Features
 - **Background Music**: Add background music to slideshows
 - **Music Library**: Pre-loaded music options in the `/static/music/` directory
 - **Custom Audio**: Upload custom audio files
 - **Audio Synchronization**: Sync audio length with video duration
 
-### 👤 User Management
+### User Management
 - **User Registration**: Secure user account creation
 - **Login System**: User authentication and session management
 - **Admin Panel**: Administrative interface for system management
 - **User Dashboard**: Personal dashboard for managing projects
 
-### 🎬 Video Generation
+### Video Generation
 - **High-Quality Output**: Professional video quality generation
 - **Multiple Formats**: Support for various video output formats
 - **Fast Processing**: Optimized video generation algorithms
 - **Download Ready**: Instant download of completed videos
 
-## 📥 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -129,7 +129,7 @@ python app.py
 - View usage statistics
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 video-slideshow-converter/
@@ -169,7 +169,7 @@ video-slideshow-converter/
     └── x.html              # Additional template
 ```
 
-## 🐛 Known Issues and Limitations
+##  Known Issues and Limitations
 
 ### Current Limitations
 - **File Size**: Large images may take longer to process
